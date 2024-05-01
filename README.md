@@ -7,7 +7,7 @@ Software Engineer | Embedded Systems Developer | Security Analyst
 
 
 📫 How to reach me:
-- Email : 31057csiot@gmail.com
+- You can mail me at [31057csiot@gmail.com](mailto:31057csiot@gmail.com)
 - LinkedIn: https://www.linkedin.com/in/aditya-chopra-04572321b/
 - 
 <!--
