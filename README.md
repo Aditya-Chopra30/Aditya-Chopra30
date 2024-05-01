@@ -1,5 +1,11 @@
-### Hi there 👋
+Hi there 👋 I am Aditya Chopra.
+Software Engineer | Embedded Systems Developer | Security Analyst
+### 
 
+
+📫 How to reach me:
+- Email : 31057csiot@gmail.com
+- LinkedIn: https://www.linkedin.com/in/aditya-chopra-04572321b/
 <!--
 **Aditya-Chopra30/Aditya-Chopra30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
