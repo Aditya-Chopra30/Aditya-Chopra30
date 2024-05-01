@@ -3,13 +3,13 @@ Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-078594
 
 Software Engineer | Embedded Systems Developer | Security Analyst
 -----------------------------------
-### 
-
+### I deBug!!
+* 🌍  I'm based in India
 
 📫 How to reach me:
 - You can mail me at [31057csiot@gmail.com](mailto:31057csiot@gmail.com)
 - LinkedIn: https://www.linkedin.com/in/aditya-chopra-04572321b/
-- 
+
 <!--
 **Aditya-Chopra30/Aditya-Chopra30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
