@@ -8,8 +8,17 @@ Software Engineer | Embedded Systems Developer | Security Analyst
 * 🌍  I'm based in India
 
 📫 How to reach me:
-- You can mail me at [31057csiot@gmail.com](mailto:31057csiot@gmail.com)
-- LinkedIn: https://www.linkedin.com/in/aditya-chopra-04572321b/
+<div align="center"> 
+  <a href="mailto:31057csiot@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/aditya-chopra-04572321b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://github.com/Aditya-Chopra30" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
 <!--
 **Aditya-Chopra30/Aditya-Chopra30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
