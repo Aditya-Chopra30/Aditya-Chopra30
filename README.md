@@ -12,14 +12,14 @@ Software Engineer | Embedded Systems Developer | Java Developer
 ### Experience
 * 🛠️ Completed Internship as a Java Developer at Infosys SpringBoard  
   <div align="center">
-    <a href="https://drive.google.com/file/d/1hzhDx4-U3yFk8FyD1SnduskYdUHTeFqN/view" target="_blank">
+    <a href="<link-to-certificate>" target="_blank">
       <img src="https://img.shields.io/badge/View%20Certificate-FFD700?style=for-the-badge&logo=adobeacrobatreader&logoColor=red" />
     </a>
   </div>
 
 ### 📄 Resume
 <div align="center">
-  <a href="<link-to-resume>" download>
+  <a href="https://drive.google.com/file/d/1hzhDx4-U3yFk8FyD1SnduskYdUHTeFqN/view" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Resume-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </div>
