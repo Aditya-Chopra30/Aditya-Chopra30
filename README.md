@@ -13,6 +13,13 @@ Software Engineer | Embedded Systems Developer | Java Developer
 * 🛠️ Completed Internship as a Java Developer at Infosys SpringBoard  
   [View Certificate](<link-to-certificate>)
 
+### 📄 Resume
+<div align="center">
+  <a href="<link-to-resume>" download>
+    <img src="https://img.shields.io/badge/Download%20Resume-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</div>
+
 📫 How to reach me:
 <div align="center"> 
   <a href="mailto:31057csiot@gmail.com">
