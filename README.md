@@ -2,11 +2,16 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aditya+Chopra!;" />
 </h1>
 
-Software Engineer | Embedded Systems Developer | Java Developer
+Software Engineer | Embedded Systems Developer | Java Developer  
 -----------------------------------
+
 ### I deBug!!
 * 🌍  I'm based in India
 * Interested in Security
+
+### Experience
+* 🛠️ Completed Internship as a Java Developer at Infosys SpringBoard  
+  [View Certificate](<link-to-certificate>)
 
 📫 How to reach me:
 <div align="center"> 
@@ -17,21 +22,6 @@ Software Engineer | Embedded Systems Developer | Java Developer
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://github.com/Aditya-Chopra30" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
-
-<!--
-**Aditya-Chopra30/Aditya-Chopra30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
