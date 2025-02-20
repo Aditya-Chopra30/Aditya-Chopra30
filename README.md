@@ -6,12 +6,16 @@ Software Engineer | Embedded Systems Developer | Java Developer
 -----------------------------------
 
 ### I deBug!!
-* 🌍  I'm based in India
-* Interested in Security
+* 🌍  I'm based in India  
+* 🔒 Interested in Security  
 
 ### Experience
 * 🛠️ Completed Internship as a Java Developer at Infosys SpringBoard  
-  [View Certificate](<link-to-certificate>)
+  <div align="center">
+    <a href="<link-to-certificate>" target="_blank">
+      <img src="https://img.shields.io/badge/View%20Certificate-FFD700?style=for-the-badge&logo=adobeacrobatreader&logoColor=red" />
+    </a>
+  </div>
 
 ### 📄 Resume
 <div align="center">
